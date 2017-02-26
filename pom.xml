@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-sb-admin-2</artifactId>
-    <version>3.3.7-1</version>
+    <version>3.3.7+1-SNAPSHOT</version>
     <name>SB Admin 2</name>
     <description>WebJar for SB Admin 2</description>
     <url>http://webjars.org</url>
