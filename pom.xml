@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>startbootstrap-sb-admin-2</artifactId>
-    <version>4.0.6</version>
+    <version>4.0.7-SNAPSHOT</version>
     <name>SB Admin 2</name>
     <description>WebJar for SB Admin 2</description>
     <url>http://webjars.org</url>
@@ -86,7 +86,7 @@
         <url>http://github.com/webjars/startbootstrap-sb-admin-2</url>
         <connection>scm:git:https://github.com/webjars/startbootstrap-sb-admin-2.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/startbootstrap-sb-admin-2.git</developerConnection>
-        <tag>startbootstrap-sb-admin-2-4.0.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
